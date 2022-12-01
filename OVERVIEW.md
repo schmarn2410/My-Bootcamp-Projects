@@ -1,9 +1,10 @@
+### Workflow & Tools
 <img width="1085" alt="Bildschirm­foto 2022-12-01 um 16 19 14" src="https://user-images.githubusercontent.com/111283322/205090440-9df094aa-06ed-4cb0-907f-fca71d1e6a91.png">
 
 
 
-# My Bootcamp projects overview:
-**You can click directly on the project links.**
+### My Bootcamp projects overview:
+**You can click directly on the project links. These are mostly pdf's of our powerpoint/slide shows.**
 
 1. Sheet//Slides//Stats project [I scream for Icecream](https://drive.google.com/file/d/1l6KRlhrDOnsvkNJrj5Sih0qNLPrspb8e/view?usp=share_link)
 
